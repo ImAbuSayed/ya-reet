@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Reet
+
+This log tracks the cryptographic history and versioning for the song **Ya Reet** (ya-reet).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:13:36.504051 | `v1` | `03ce2cb582136a7f7ecbb423717d719fa492af549daf45dbbe09b9ef8f5de19f` | `93aab832f92e70ee967c7f0320d58bca50a9f18a7cb8bc159e1202d3da079c16` | `2026-05-09_ya-reet-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
